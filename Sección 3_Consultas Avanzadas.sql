@@ -102,5 +102,5 @@ CREATE VIEW "actor_num_peliculas" AS
 	GROUP BY concat(a.first_name,' ', a.last_name);
 
 SELECT *
-FROM actor_num_peliculas anp 
+FROM actor_num_peliculas anp;
 

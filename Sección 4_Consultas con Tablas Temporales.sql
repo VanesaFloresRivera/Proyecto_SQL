@@ -142,3 +142,4 @@ WITH cte_actor_category AS (
 SELECT *
 FROM cte_actor_category
 WHERE category = 'Sci-Fi';
+
